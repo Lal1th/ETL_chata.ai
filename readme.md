@@ -1,8 +1,8 @@
-# Customer 360 ETL Pipeline
+# Take-Home Challenge 
 
-## Project Overview
+## Overview
 
-This project implements a production-ready ETL pipeline that consolidates three disparate data sources into a unified Customer 360 view. The pipeline handles real-world data quality issues including inconsistent formatting, duplicates, invalid records, and missing values to produce a clean, analytical dataset.
+This challenge implements a production-ready ETL pipeline that consolidates three disparate data sources into a unified Customer 360 view. The pipeline handles real-world data quality issues including inconsistent formatting, duplicates, invalid records, and missing values to produce a clean, analytical dataset.
 
 ## Quick Start
 
