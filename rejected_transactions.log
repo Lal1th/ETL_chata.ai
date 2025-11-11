@@ -1,0 +1,3 @@
+transaction_id|status|amount|reason
+TX-4003|Refunded|-10.0|Non-positive amount (-10.0)
+TX-4006|Cancelled|-5.0|Non-positive amount (-5.0)
